@@ -1,0 +1,1 @@
+HttpClient is not supported any more in sdk 23, so we downgraded to sdk 22 with this command in build.gradle: compile 'com.android.support:appcompat-v7:22.2.0'
